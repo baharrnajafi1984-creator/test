@@ -25,3 +25,12 @@ git push -u origin main
 
 
 first change01
+
+
+هر بار بع د از تغییرات با این دستورات Update کنیم
+
+git add .
+
+git commit -m "هر بار کامنت جدید"
+
+git push
